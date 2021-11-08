@@ -1,0 +1,23 @@
+.repeta {
+}
+
+body {
+  font-family: "Mochiy Pop P One", sans-serif;
+  background-color: AFB1B8;
+}
+
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+
+.list:hover,
+.list:focus,
+.list:active {
+  color: rgba(243, 74, 8, 0.459);
+}
+.list {
+  color: #212121;
+}
